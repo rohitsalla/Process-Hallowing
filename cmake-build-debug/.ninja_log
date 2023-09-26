@@ -1,0 +1,5 @@
+# ninja log v5
+10	837	7174093071052012	build.ninja	c279bb6e439f4167
+0	3027	7174068313305692	CMakeFiles/Process_Hollowing1.dir/Source/Process_Hollowing/Process_Hollowing.cpp.obj	335cf753a391011b
+3032	3413	7174068317126241	Process_Hollowing1.exe	648faaa97383e3d4
+2	565	7174093071052012	build.ninja	c279bb6e439f4167

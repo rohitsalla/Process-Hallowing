@@ -1,0 +1,3 @@
+C:/Users/salla/CLionProjects/Process-Hollowing1/cmake-build-debug/CMakeFiles/Process_Hollowing1.dir
+C:/Users/salla/CLionProjects/Process-Hollowing1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/salla/CLionProjects/Process-Hollowing1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
